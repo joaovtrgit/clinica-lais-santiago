@@ -16,8 +16,7 @@ export default function Footer() {
         </div>
       </div>
       <p className="footer__copy container">
-        © {new Date().getFullYear()} Clínica Dra. Laís Santiago Estética Avançada
-Protótipo demonstrativo — projeto desenvolvido por João Vitor.
+        © {new Date().getFullYear()} Clínica Dra. Laís Santiago Estética Avançada Protótipo demonstrativo — projeto desenvolvido por João Vitor.
       </p>
     </footer>
   )
